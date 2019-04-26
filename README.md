@@ -1,24 +1,10 @@
-# README
+# Gossip database
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+assembles gossips, with users, tags, Private messages ...
 
-Things you may want to cover:
+To try it: download this repo, quick bundle install, then test the seeds.rb file in your command line.
 
-* Ruby version
 
-* System dependencies
+Enjoy!
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+By Anis Bouhouche.
